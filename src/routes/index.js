@@ -14,6 +14,6 @@ const routes = () =>{
 
 function getdetails(str,res){
     console.log('hi there am in jenkins console')
-    return 'hello there now it is getting update jenkin server also'
+    return 'hello there now it is getting update jenkin server also checking again'
 }
 export default routes;
