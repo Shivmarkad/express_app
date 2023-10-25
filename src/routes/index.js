@@ -13,7 +13,7 @@ const routes = () =>{
 };
 
 function getdetails(str,res){
-    console.log('hi there')
-    return 'completed'
+    console.log('hi there am in jenkins console')
+    return 'from the github updated repo'
 }
 export default routes;
