@@ -7,8 +7,7 @@ const routes = () =>{
         const str = "hello from router"
        let data =  getdetails(str)
        res.json(data)
-    }
-    )
+    })
     return router
 };
 
